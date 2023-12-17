@@ -1,5 +1,5 @@
 # ragsql
-Retrieve Augmented Generation (RAG) is for me one of the most useful features of Large Language Models (LLMs) (This is my personal opinion). It allows you to ask a LLM questions about your own data.
+Retrieval Augmented Generation (RAG) is for me one of the most useful features of Large Language Models (LLMs) (This is my personal opinion). It allows you to ask a LLM questions about your own data.
 If you have information in PDFs, Office formats, etc. format I recommend you to try this [repository](https://github.com/Azure-Samples/azure-search-openai-demo)
 That example, at this point does not support reading from a SQL database tough, that is why I have started this repository.
 
